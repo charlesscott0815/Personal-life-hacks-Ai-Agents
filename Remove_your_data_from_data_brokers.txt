@@ -1,0 +1,7 @@
+Remove my personal and contact info from B2B contact-data sellers and people-search brokers (e.g. Apollo, ZoomInfo, RocketReach, Lusha, ContactOut, Seamless AI, Hunter, Clearbit, Cognism, Kaspr, SignalHire, People Data Labs, LeadIQ, Adapt io, UpLead, plus any others common in my country).
+
+1. Ask me for my name, the emails I use, and where I live, then look up each provider's current official opt-out route on their own site.
+2. Write a short deletion and opt-out request that cites the privacy law that applies where I live and where the provider is domiciled (e.g. GDPR/UK GDPR, CCPA/CPRA or another US state law, PIPEDA, the Australian Privacy Act). Request deletion of all my data, an end to any sale or sharing, deletion of linked profiles, and written confirmation.
+3. Show me the emails as drafts from my own email account. Send them only after I approve, and save a copy of every sent email for my records.
+4. Fill out web forms for providers that don't accept email.
+5. Give me a list of what was sent, what's still pending, and any confirmation links I need to click.
